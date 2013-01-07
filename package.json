@@ -12,7 +12,7 @@
     }
   , "dependencies": {
         "async": "~0.1.22"
-      , "marked": "~0.2.5"
+      , "marked": "~0.2.7"
       , "pygmentize-bundled": "~1.0.0"
     }
   , "keywords": [
