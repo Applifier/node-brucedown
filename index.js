@@ -9,6 +9,7 @@ function Processor (source) {
   this.blocks = []
   marked.setOptions({
       gfm: true
+    , tables: true
     , pedantic: false
     , sanitize: false
     , highlight: this.highlight.bind(this)
